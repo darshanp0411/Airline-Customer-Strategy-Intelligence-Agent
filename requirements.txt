@@ -1,0 +1,11 @@
+requirements
+
+
+streamlit
+pandas
+plotly
+openai
+langchain-openai
+langchain-core
+textblob
+numpy
